@@ -76,6 +76,3 @@ p {
 .box {
   padding: 100px;
 }
-
-
-@media (min-width:320px)  { /* smartphones, iPhone, portrait 480x320 phones */ }
