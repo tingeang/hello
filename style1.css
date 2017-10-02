@@ -24,16 +24,16 @@ a:link {
 
 a:link, a:visited {
   text-decoration: none;
-  color: #9d3521;
+  color: #000000;
 }
 a:hover {
   text-decoration: none;
-  color: #9eaca9;
+  color: #9d3521;
 }
 
 a:active {
   text-decoration: none;
-  color: #9d3521;
+  color: #000000;
 }
 
 h1 {
