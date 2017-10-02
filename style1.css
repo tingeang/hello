@@ -10,6 +10,7 @@ body {
     min-width: 100%;
     margin: auto;
     text-align: left;
+    font-color: #9d3521;
 }
 
 #shw {
@@ -23,16 +24,16 @@ a:link {
 
 a:link, a:visited {
   text-decoration: none;
-  color: #000000;
+  color: #9d3521;
 }
 a:hover {
   text-decoration: none;
-  color: red;
+  color: #9eaca9;
 }
 
 a:active {
   text-decoration: none;
-  color: black;
+  color: #9d3521;
 }
 
 h1 {
